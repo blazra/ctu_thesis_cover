@@ -20,6 +20,7 @@ Additional CTU visual resources: https://www.cvut.cz/en/ctu-logo or https://www.
     1. Change the fill color in "Properties"->"Colors" ("Fill" tab)
 1. If your spine thickness is larger than 4 mm you have to
     1. Change the page width to 420 + spine thickness
+    1. Change the background polygon width appropriately
     1. Move the spine text, so that it is horizontally centered
     1. Move the front page text and symbol, so that the symbol is horizontally centered on the front page
 1. Generate PDF for printing
