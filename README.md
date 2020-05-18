@@ -8,7 +8,7 @@ Additional CTU visual resources: https://www.cvut.cz/en/ctu-logo or https://www.
 1. Download and install Scribus version >= 1.5.5 https://www.scribus.net/downloads/unstable-branch/
 1. Open the .sla file in Scribus
 1. Edit the text (by double clicking on it)
-1. Center the center text on spine
+1. Center the center text on the spine
     1. Select all three text frames on the spine by shift + click
     1. Activate "Windows"->"Align and distibute" window
     1. In "Distribute" tab select "Make vertical gaps between items equal"
