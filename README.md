@@ -4,6 +4,8 @@
 
 Additional CTU visual resources: https://www.cvut.cz/en/ctu-logo or https://www.cvut.cz/logo-a-graficky-manual.
 
+[!Example of a thesis using this cover](examples/Patrik/front.jpg)
+
 ## How to use:
 1. Download and install Scribus version >= 1.5.5 https://www.scribus.net/downloads/unstable-branch/
 1. Open the .sla file in Scribus
