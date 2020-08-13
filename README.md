@@ -4,7 +4,7 @@
 
 Additional CTU visual resources: https://www.cvut.cz/en/ctu-logo or https://www.cvut.cz/logo-a-graficky-manual.
 
-[!Example of a thesis using this cover](examples/Patrik/front.jpg)
+<img src=examples/Patrik/front.jpg width=300 alt="Example of a thesis using this">
 
 ## How to use:
 1. Download and install Scribus version >= 1.5.5 https://www.scribus.net/downloads/unstable-branch/
